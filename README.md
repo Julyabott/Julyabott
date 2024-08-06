@@ -2,7 +2,7 @@
 
 meu nome é julya bott
 
-•estou estudando no alura
+•estou estudando No Alura
 
 •estou me desenvolvendo na linguagem javascript
 
